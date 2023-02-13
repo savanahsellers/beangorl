@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @beangorl
-- 👀 I’m interested in game development.
-- 🌱 I’m currently learning JQuery, NodeJS, Python, and C#.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Savanah!
+- 👀 I’m interested in software development.
+- 🌱 I’m currently learning C++, Java, and Python.
+- 💞️ I’m looking to collaborate on various projects I am working on for school and for fun! 
+- 📫 How to reach me: savanahsellers@gmail.com.
 
 <!---
 beangorl/beangorl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
