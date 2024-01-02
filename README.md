@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Savanah!
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning C++, Java, and Python.
+- 👀 I’m interested in software development, web development, and game development.
+- 🌱 I’m currently learning C++, Python, JavaScript, Ruby, and CSS.
 - 💞️ I’m looking to collaborate on various projects I am working on for school and for fun! 
 - 📫 How to reach me: savanahsellers@gmail.com.
 
